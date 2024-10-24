@@ -1,4 +1,4 @@
-# My Data Structure Package
+# My Data Structure Package - persian version
 
 A Python package that provides various data structures and algorithms including arrays, stacks, queues, linked lists, trees, graphs, and sorting algorithms.
 
@@ -23,4 +23,7 @@ A Python package that provides various data structures and algorithms including 
 You can install this package directly from the source. Clone the repository or download the files and run the following command in the terminal:
 
 ```bash
-pip install .
+pip install Python-DataStructure==1.0.5
+
+```
+Develope By: Mehrdad Hasanzade - persian Developer

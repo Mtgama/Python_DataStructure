@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: Python_DataStructure
+Version: 1.0.5
+Summary: A Python package for data structures and algorithms
+Author: Mehrdad Hasanzade
+Author-email: mehrdadt75m@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.4
+Description-Content-Type: text/markdown
+
+# My Data Structure Package
+
+A Python package that provides various data structures and algorithms including arrays, stacks, queues, linked lists, trees, graphs, and sorting algorithms.
+
+## Features
+
+- **Data Structures**:
+  - Limited Array
+  - Stack
+  - Queue
+  - Linked List
+  - Circular Linked List
+  - Binary Tree
+  - Graph
+
+- **Algorithms**:
+  - Sorting Algorithms (Bubble Sort, Insertion Sort, Selection Sort, Quick Sort, Heap Sort)
+  - Expression Conversion (Infix to Postfix, Infix to Prefix)
+  - Graph Implementation
+
+## Installation
+
+You can install this package directly from the source. Clone the repository or download the files and run the following command in the terminal:
+
+```bash
+pip install .
